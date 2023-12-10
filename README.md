@@ -18,7 +18,9 @@ Follow these instructions to set up the project on your local system.
 
 1. Clone the repository:
 
-- git clone https://github.com/your-username/csv-file-viewer.git
+- git clone
+- backend https://github.com/vipul0005/CsvUpload_back
+- frontend https://github.com/vipul0005/CsvUpload_front
 - cd csv-file-viewer
 
 2. Install server dependencies:
